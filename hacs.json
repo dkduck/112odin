@@ -1,0 +1,8 @@
+{
+  "name": "112 Odin",
+  "content_in_root": false,
+  "domains": ["sensor"],
+  "homeassistant": "2022.0.0",
+  "country": "dk",
+  "render_readme": true
+}

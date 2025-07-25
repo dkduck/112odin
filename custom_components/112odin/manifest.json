@@ -1,0 +1,9 @@
+{
+  "domain": "112odin",
+  "name": "112 Odin",
+  "version": "1.0.0",
+  "documentation": "https://github.com/dkduck/112odin",
+  "requirements": ["feedparser"],
+  "dependencies": [],
+  "codeowners": ["@dkduck"]
+}
