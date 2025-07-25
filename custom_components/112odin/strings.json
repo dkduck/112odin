@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "112 Odin konfiguration",
+        "description": "Vælg beredskabsstation og antal hændelser",
+        "data": {
+          "name": "Navn på sensor",
+          "beredskabsID": "Beredskabsstation (ID)",
+          "stations_navn": "Stationsnavn",
+          "antal_haendelser": "Antal hændelser (1-20)"
+        }
+      }
+    }
+  }
+}
